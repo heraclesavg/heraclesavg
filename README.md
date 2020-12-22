@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**heraclesavg/heraclesavg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+!DOCTYPE html>
+<head>
+	<meta charset="UTF-8">
+	<title>My First Page</title>
+</head>
+<body>
+	<main><p>THIS IS MY MAIN CODE</p></main>
+	<footer><p>Think of a more interesting footer</p></footer>
+</body>
+</html>
