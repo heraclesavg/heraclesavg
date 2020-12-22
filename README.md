@@ -1,10 +1,1 @@
-!DOCTYPE html>
-<head>
-	<meta charset="UTF-8">
-	<title>My First Page</title>
-</head>
-<body>
-	<main><p>THIS IS MY MAIN CODE</p></main>
-	<footer><p>Think of a more interesting footer</p></footer>
-</body>
-</html>
+Hi there!
